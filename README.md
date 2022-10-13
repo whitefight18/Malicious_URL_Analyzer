@@ -40,4 +40,4 @@ Shoutout to my team members who helped to build this tool -
  - [Hrisikesh Pal](https://github.com/viruszzhkp/)
  - [Chiranjiv Chetia](https://github.com/chiranjiv11/)
  - [Jit Sarkar](https://github.com/sarkarjit/)
- - [Biplab Chattaraj](https://www.instagram.com/biplab_avi/)
+ - [Biplab Chattaraj](https://github.com/Biplab01avi)
