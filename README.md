@@ -1,6 +1,8 @@
 # Malicious URL Analyzer
 A tool written in python to detect the hostility or suspiciousness of a target URL, utilising IPQualityScore API.  
 
+![GitHub top language](https://img.shields.io/github/languages/top/whitefight18/Malicious_URL_Analyzer?style=flat-square&logo=python&logoColor=lightblue)  ![GitHub](https://img.shields.io/github/license/whitefight18/Malicious_URL_Analyzer?color=gree&style=flat-square)
+
 ## Requirements:
 
 `Terminal/Any CLI` for using this tool.  
