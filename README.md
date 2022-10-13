@@ -36,7 +36,7 @@ To specify the configuration file, if located somewhere else:
 
 Big Thanks to IPQualityScore for providing their API. Check them out [here](https://www.ipqualityscore.com/).  
 
-Shoutout to my team members who helped building this tool -
+Shoutout to my team members who helped to build this tool -
  - [Hrisikesh Pal](https://github.com/viruszzhkp/)
  - [Chiranjiv Chetia](https://github.com/chiranjiv11/)
  - [Jit Sarkar](https://github.com/sarkarjit/)
