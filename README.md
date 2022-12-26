@@ -9,6 +9,10 @@ A tool written in python to detect the hostility or suspiciousness of a target U
 
 `python3` from [python.org](https://www.python.org/downloads/)  
 
+To install the dependencies, use `pip3 install -r requirements.txt`
+
+Or, to install them manually -  
+
 `requests` library ( install using `pip3 install requests` )  
 
 `validators` library ( install using `pip3 install validators` )  
